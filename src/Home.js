@@ -6,7 +6,7 @@ import './Home.css';
 const Home = () => {
   return (
     <div className="form-container">
-      <h1 style={{ textAlign: 'center', color: 'rgb(59, 87, 68)' }}>Full Stack Practical</h1>
+      <h1 style={{ textAlign: 'center', color: 'rgb(59, 87, 68)' }}>Age Calculator</h1>
       <ul>
         <li>
           <Link to="/login">Login</Link>
